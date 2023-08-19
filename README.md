@@ -1,3 +1,5 @@
+https://app.circleci.com/pipelines/github/khoatcao/Udacity_Clouddevops_Microservices
+![img_1.png](img_1.png)
 # Project 4 - Operationalize a Machine Learning Microservice API
 
 > In this project, I applied the skills which I have acquired in this course to operationalize a Machine Learning Microservice API. This project tests my ability to operationalize a Python Flask App in a provided file, app.py that serves out predictions (inference) about housing prices through API calls.
